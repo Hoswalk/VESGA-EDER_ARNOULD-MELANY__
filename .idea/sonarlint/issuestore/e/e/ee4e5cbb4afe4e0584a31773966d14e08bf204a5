@@ -1,0 +1,10 @@
+
+O
+java:S1199<"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ø™¬½İ1
+e
+java:S2259a"HA "NullPointerException" could be thrown; "connection" is nullable here.(ôêÂœ8ı›¬½İ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İú¦Şıÿÿÿÿ8ı›¬½İ1
+l
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ö‚ÏÇ8ı›¬½İ1
+m	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıœæ´8ı›¬½İ1

@@ -1,0 +1,163 @@
+[2024-02-23 00:56:30] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:56:30] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 00:56:30] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:58:12] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:58:12] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 00:58:12] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:58:21] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:58:21] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 00:58:21] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:58:33] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 00:58:33] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 00:58:33] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 01:00:20] [ ERROR] [OdontologoDaoH2:44] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 01:00:20] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 01:00:20] [ ERROR] [OdontologoDaoH2:50] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2024-02-23 01:00:50] [ ERROR] [OdontologoDaoH2:44] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:00:50] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 01:00:50] [ ERROR] [OdontologoDaoH2:50] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:05:05] [ ERROR] [OdontologoDaoH2:44] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:05:05] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 01:05:05] [ ERROR] [OdontologoDaoH2:50] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:06:15] [ ERROR] [OdontologoDaoH2:47] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:06:15] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:06:15] [ ERROR] [OdontologoDaoH2:53] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:11:44] [ ERROR] [OdontologoDaoH2:44] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:11:44] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 01:11:44] [ ERROR] [OdontologoDaoH2:50] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:11:51] [ ERROR] [OdontologoDaoH2:44] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:11:51] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 01:11:51] [ ERROR] [OdontologoDaoH2:50] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:12:03] [ ERROR] [OdontologoDaoH2:44] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:12:03] [ INFO ] [OdontologoDaoH2:49] Tuvimos un problema
+[2024-02-23 01:12:03] [ ERROR] [OdontologoDaoH2:50] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [90002-224]
+[2024-02-23 01:13:05] [ ERROR] [OdontologoDaoH2:47] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:13:05] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:13:05] [ ERROR] [OdontologoDaoH2:53] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:16:08] [ ERROR] [OdontologoDaoH2:47] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:16:08] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:16:08] [ ERROR] [OdontologoDaoH2:53] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:16:37] [ ERROR] [OdontologoDaoH2:47] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:16:37] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:16:37] [ ERROR] [OdontologoDaoH2:53] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:17:32] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:17:32] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:17:32] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:18:16] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:18:16] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:18:16] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:21:44] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:21:44] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:21:44] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:23:33] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:23:33] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:23:33] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS(NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-224]
+[2024-02-23 01:23:51] [ ERROR] [OdontologoDaoH2:47] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:23:51] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:23:51] [ ERROR] [OdontologoDaoH2:53] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:24:59] [ ERROR] [OdontologoDaoH2:47] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:25:00] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:25:00] [ ERROR] [OdontologoDaoH2:53] Columna "numeroMatricula" no encontrada
+Column "numeroMatricula" not found [42122-224]
+[2024-02-23 01:31:41] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:31:41] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:31:41] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:32:12] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:32:12] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:32:12] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:33:55] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:33:55] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:33:55] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:34:20] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:34:20] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:34:20] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:34:26] [ ERROR] [OdontologoDaoH2:47] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 01:34:26] [ INFO ] [OdontologoDaoH2:52] Tuvimos un problema
+[2024-02-23 01:34:26] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-224]
+[2024-02-23 14:57:23] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:00:30] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:07:33] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=3, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:08:06] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:11:09] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:16:45] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=3, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:21:56] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=4, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:32:16] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:32:16] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:32:16] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=3, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:32:16] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=3, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=4, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:33:58] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=3, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=4, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:34:39] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:34:39] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:36:57] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:36:57] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='123', nombre='Juan', apellido='Perez'}, Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:38:45] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:38:45] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='12345', nombre='MARIA', apellido='JIMENEZ'}, Odontologo{id=2, numero='123', nombre='Juan', apellido='Perez'}]
+[2024-02-23 15:40:09] [ INFO ] [OdontologoDaoH2:43] Se ha registrado con exito: Odontologo{id=4, numero='123', nombre='Juan', apellido='Perez'}
+[2024-02-23 15:40:09] [ INFO ] [OdontologoDaoH2:90] Odontologos: [Odontologo{id=1, numero='12345', nombre='MARIA', apellido='JIMENEZ'}, Odontologo{id=2, numero='12345', nombre='ANA', apellido='RODRIGUEZ'}, Odontologo{id=3, numero='12345', nombre='PABLO', apellido='GONZALEZ'}, Odontologo{id=4, numero='123', nombre='Juan', apellido='Perez'}]

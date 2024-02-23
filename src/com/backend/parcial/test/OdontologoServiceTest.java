@@ -3,11 +3,8 @@ package com.backend.parcial.test;
 import com.backend.parcial.dao.impl.OdontologoDaoH2;
 import com.backend.parcial.entity.Odontologo;
 import com.backend.parcial.service.impl.OdontologoService;
-import org.junit.Assert;
 import org.junit.Test;
-
 import java.util.List;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class OdontologoServiceTest {
